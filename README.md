@@ -1,4 +1,4 @@
-![the project logo]()
+![the project logo](https://github.com/studiefredfredrik/S.V.E.T.T/blob/master/logo.JPG?raw=true)
 
 # About
 S.V.E.T.T stands for Scientific Vacation Electronic Temperature Taker
